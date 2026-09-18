@@ -59,11 +59,10 @@ The visualizations help present the results of the data analysis in a clear and 
 
 ## 📁 Project Structure
 
-```text
-Thiranex_Data_Cleaning_Visualization/
-│
-├── Data_Cleaning_Visualization.ipynb
-└── README.md
+- Thiranex_Data_Cleaning_Visualization/
+  - Data_Cleaning_Visualization.ipynb
+  - README.md
+
 ## ▶️ How to Run the Project
 
 1. Open `Data_Cleaning_Visualization.ipynb`.
@@ -73,8 +72,6 @@ Thiranex_Data_Cleaning_Visualization/
 5. Review the data cleaning process, visualizations, and results.
 
 ## 📚 Skills Gained
-
-Through this project, I practiced the following skills:
 
 - Data Cleaning
 - Data Preprocessing
