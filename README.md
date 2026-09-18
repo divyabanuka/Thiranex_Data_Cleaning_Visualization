@@ -86,12 +86,6 @@ The visualizations help present the results of the data analysis in a clear and 
 - Seaborn
 - Basic Data Analysis
 
-## 🎓 Internship Details
-
-**Organization:** Thiranex
-
-**Task:** Task 1 – Data Cleaning & Visualization
-
 ## 👩‍💻 Author
 
 **Divya Banuka**
